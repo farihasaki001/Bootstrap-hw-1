@@ -1,0 +1,9 @@
+h1{
+	color: red;
+}
+.box{
+	min-height: 100px;
+	background-color: purple;
+	border: 1px solid black;
+	margin-bottom: 10px;
+}
